@@ -1,5 +1,22 @@
 # Linux---Commands-cheat-sheet
 
+which firefox : To find the path of any program such as firefox
+gedit firefox : To open the code file of any program such as firefox
+whoami : To know the account of exising user such as a local host or a root account of that user
+useradd tom : To add a user suuch as tom
+passwd tom :To set a password for any user such as tom
+jobs : To know what all jobs/programs/softwares are running
+free : Tells us the system's memory usage in kilobytes
+free -m : Tells us the system's memory usage in megabytes
+man free : To access the manual of any command such as free
+date +%r : It displays the current time in 12-hour clock format with AM or PM
+gnome-screenshot :  It is used to take screenshots of your desktop or specific areas of your screen when you are using the GNOME desktop environment. GNOME is a popular graphical user interface used in many Linux distributions.
+cd .. : Go back in path 
+pwd[print working directory]
+eog sn1.png : The eog command in Linux stands for "Eye of GNOME." It is the default image viewer for the GNOME desktop environment, and it allows you to view and interact with images and photos on your Linux system. You can use the eog command in the terminal to open an image file for viewing.
+firefox  & : This command in Linux is used to start any program in the background such as firefoxr. The & symbol is used to run a command as a background process, which means that you can continue to use the terminal for other tasks while Firefox is running in the background.
+
+
 Any program/application which we run on our computer can be run in 2 ways: 1. CLI-curl www.google.com    2. GUI - chrome
 rpm -q software_name : To check any software availbility 
 netstat - tnlp : To find the port number of a running software(But this has become older)
