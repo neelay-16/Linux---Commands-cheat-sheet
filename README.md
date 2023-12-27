@@ -1,5 +1,5 @@
 # Linux---Commands-cheat-sheet
-
+    
 which firefox : To find the path of any program such as firefox
 gedit firefox : To open the code file of any program such as firefox
 whoami : To know the account of exising user such as a local host or a root account of that user
