@@ -53,7 +53,7 @@ systemctl reload sshd : To reload the existing already started sshd
 
 rpm -q -c openssh_server
 
-# To disable the SELinux security
+To disable the SELinux security:
 getenforce 
 setenforce 0
 system restart sshd
